@@ -13,7 +13,9 @@ body {
   text-align: center;
   margin-top: 50px;
 }
-
+.bus_info p:last-of-type {
+  color: grey;
+}
 .main p {
   padding: 50px;
 }
