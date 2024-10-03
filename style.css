@@ -1,0 +1,28 @@
+body {
+  width: 600px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: auto;
+  background-color: azure;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bus_info {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.main p {
+  padding: 50px;
+}
+footer p {
+  font-size: 0.6em;
+  text-align: center;
+}
+
+p {
+  font-size: 1em;
+}
